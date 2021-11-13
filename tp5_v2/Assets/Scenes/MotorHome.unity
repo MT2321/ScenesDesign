@@ -6441,7 +6441,7 @@ MonoBehaviour:
   distanceAttenuation: 1
   distanceAttenuationInput: 1
   distanceAttenuationValue: 1
-  airAbsorption: 0
+  airAbsorption: 1
   airAbsorptionInput: 0
   airAbsorptionLow: 1
   airAbsorptionMid: 1
