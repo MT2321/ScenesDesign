@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - GlowOnHover
+  - pepsi
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GlowingObjects
   - Water
   - UI
   - 
