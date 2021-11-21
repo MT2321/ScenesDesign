@@ -75,7 +75,7 @@ public class ObjectSelector : MonoBehaviour
     {
         Debug.Log("hold_release_state: " + hold_release_state);
 
-        bool click = Input.GetKeyDown("space");
+        bool click = Input.GetKeyDown("g");
         Debug.Log(click);
         Debug.Log(t.tag);
 
