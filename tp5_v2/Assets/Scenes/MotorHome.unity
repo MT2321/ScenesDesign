@@ -1283,7 +1283,7 @@ GameObject:
   - component: {fileID: 218957427}
   m_Layer: 3
   m_Name: SuperPepsi (1)
-  m_TagString: Untagged
+  m_TagString: pepsi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14837,7 +14837,7 @@ GameObject:
   - component: {fileID: 3655000510215687618}
   m_Layer: 3
   m_Name: SuperPepsi
-  m_TagString: Untagged
+  m_TagString: pepsi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
