@@ -185,7 +185,7 @@ namespace TCM_TextureChannelMixer
 
         public void SetShaderData(Vector4 operationData)
         {
-            
+
         }
     }
 
@@ -352,7 +352,7 @@ namespace TCM_TextureChannelMixer
     }
 
     [ModifierName("Range/Min", 11), ModifierHidden(false)]
-    public class ResultModifierMín : ResultModifierNumericOperation
+    public class ResultModifierMin : ResultModifierNumericOperation
     {
         public override void Initialize()
         {
