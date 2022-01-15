@@ -2,8 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
-
 // C# example.
 public class ObjectSelector : MonoBehaviour
 {
@@ -85,6 +83,7 @@ public class ObjectSelector : MonoBehaviour
             {
                 hold_release_state = HOLD;
                 t.GetComponent<Rigidbody>().useGravity = false;
+                t.GetComponent<Rigidbody>().drag = 10;
             }
             else
             {
