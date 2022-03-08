@@ -1061,6 +1061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd99d10be4531a141a5997a538b39d31, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fd99d10be4531a141a5997a538b39d31, type: 3}
       propertyPath: m_Name
       value: cigarritos (1)
@@ -9309,6 +9313,14 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: fd99d10be4531a141a5997a538b39d31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd99d10be4531a141a5997a538b39d31, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fd99d10be4531a141a5997a538b39d31, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fd99d10be4531a141a5997a538b39d31, type: 3}
       propertyPath: m_Name
